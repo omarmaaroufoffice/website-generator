@@ -5,8 +5,8 @@ This program generates custom websites based on user requirements through an
 interactive questionnaire system. It uses OpenAI's API for content generation
 and creates a complete website structure.
 
-Author: [Your Name]
-Date: [Current Date]
+Author: [Omar Maarouf]
+Date: [2024-12-07]
 """
 
 from components.site_generator import SiteGenerator
